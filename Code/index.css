@@ -1,0 +1,13 @@
+.container{
+    border: 5px #9fd8df solid;
+    background-color: #e4fbff;
+    width: 520px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    font-size: 22px;
+}
+#btn{
+    width: 520px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
